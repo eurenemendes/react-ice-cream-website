@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const FooterContainer = styled.footer`
-  width: 100vw;
+  width: 100%;
   background: linear-gradient(90deg, rgba(180,60,34,1) 0%, rgba(253,88,29,1) 50%, rgba(252,194,69,1) 100%);
 `;
 

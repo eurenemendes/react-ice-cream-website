@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import {FaShoppingCart} from 'react-icons/fa';
 
 export const ProductsContainer = styled.div`
-    width: 100vw;
+    width: 100%;
     min-height: 100vh;
     padding: 5rem calc((100vw - 1300px) /2);
     color: #fff;

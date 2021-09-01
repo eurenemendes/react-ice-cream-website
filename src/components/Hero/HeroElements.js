@@ -5,7 +5,7 @@ export const HeroContainer = styled.div`
     background: linear-gradient(135deg, rgba(255,255,255,0) 0%, rgba(255,255,255,0) 96%), 
     url(${ImgBg});
     height: 100vh;
-    width: 100vw;
+    width: 100%;
     background-position: center;
     background-size: cover;
 `;
@@ -13,7 +13,7 @@ export const HeroContainer = styled.div`
 export const HeroContent = styled.div`
     height: calc(100vh -80px);
     max-height: 100%;
-    width: 100vw;
+    width: 100%;
     padding: 0rem calc((100vw - 1300px) /2);
 `;
 
