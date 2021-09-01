@@ -16,7 +16,6 @@ export const GlobalStyle = createGlobalStyle`
 /* Track */
 ::-webkit-scrollbar-track {
   box-shadow: inset 0 0 5px grey;
-  border-radius: 4px;
 }
 
 /* Handle */
